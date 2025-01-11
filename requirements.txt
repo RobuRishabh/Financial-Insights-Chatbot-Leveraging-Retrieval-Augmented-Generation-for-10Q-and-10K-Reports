@@ -1,0 +1,9 @@
+pypdf
+openai
+dash
+transformers
+sentence-transformers
+langchain
+chromadb
+sentence_transformers
+dash-bootstrap-components
