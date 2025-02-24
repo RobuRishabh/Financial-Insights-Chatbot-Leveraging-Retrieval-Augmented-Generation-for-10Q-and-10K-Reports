@@ -2,7 +2,6 @@ import torch
 import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, LlamaForCausalLM
 from time import time
-
 from langchain.document_loaders import PyPDFLoader
 from langchain.embeddings.huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import Chroma

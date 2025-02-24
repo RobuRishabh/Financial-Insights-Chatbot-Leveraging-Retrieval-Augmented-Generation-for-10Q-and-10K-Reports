@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+chroma_db/
 build/
 develop-eggs/
 dist/
